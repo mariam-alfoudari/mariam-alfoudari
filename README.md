@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: spongebob is a sponge.
 -->
+- 🔭 I’m currently working on نتعلم
+- 🌱 I’m currently learning SWIFT
+- 👯 I’m looking to collaborate on wallah madri
+- 🤔 I’m looking for help with EVERYTHING!
+- 💬 Ask me about life.
+- 📫 How to reach me: email.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: spongebob is a sponge.
