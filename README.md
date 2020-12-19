@@ -5,20 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on نتعلم
-- 🌱 I’m currently learning SWIFT
+- 🔭 I’m currently working on nothing 
+- 🌱 I’m currently learning SWIFTUI
 - 👯 I’m looking to collaborate on wallah madri
 - 🤔 I’m looking for help with EVERYTHING!
 - 💬 Ask me about life.
-- 📫 How to reach me: email.
-- 😄 Pronouns: ...
+- 📫 How to reach me: maf.alfoudari@gmail.com
 - ⚡ Fun fact: spongebob is a sponge.
 -->
-- 🔭 I’m currently working on نتعلم
-- 🌱 I’m currently learning SWIFT
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning SWIFTui
 - 👯 I’m looking to collaborate on wallah madri
 - 🤔 I’m looking for help with EVERYTHING!
 - 💬 Ask me about life.
-- 📫 How to reach me: email.
+- 📫 How to reach me: maf.alfoudari@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: spongebob is a sponge.
