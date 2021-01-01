@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: spongebob is a sponge.
 -->
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning SWIFTui
+- 🌱 I’m currently learning SWIFTUI
 - 👯 I’m looking to collaborate on wallah madri
 - 🤔 I’m looking for help with EVERYTHING!
 - 💬 Ask me about life.
